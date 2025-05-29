@@ -1,0 +1,52 @@
+[
+  {
+    "title": "AI for Beginners",
+    "career_paths": [
+      "Data Scientist",
+      "AI Engineer"
+    ],
+    "level": "Undergraduate",
+    "year": [
+      "Freshman",
+      "Sophomore"
+    ],
+    "days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "time": "10:00-11:30"
+  },
+  {
+    "title": "Advanced Machine Learning",
+    "career_paths": [
+      "ML Engineer",
+      "Data Scientist"
+    ],
+    "level": "Graduate",
+    "year": [
+      "1st Year",
+      "2nd Year"
+    ],
+    "days": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "time": "11:00-13:00"
+  },
+  {
+    "title": "Data Visualization",
+    "career_paths": [
+      "Data Analyst",
+      "Product Manager"
+    ],
+    "level": "Undergraduate",
+    "year": [
+      "Junior",
+      "Senior"
+    ],
+    "days": [
+      "Friday"
+    ],
+    "time": "9:00-10:30"
+  }
+]
